@@ -17,8 +17,12 @@ body {
   gap: 0.5rem;
 }
 
+input{
+  width: 100%;
+}
+
 .form-row {
-  display: flex;
+  display: block;
   flex-direction: column;
   gap: 0.1rem;
 }
